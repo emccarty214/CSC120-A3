@@ -1,7 +1,16 @@
 Use this file to record your reflection on this assignment.
 
 - Which classmates did you consult with while working on this assignment?
+I consulted with the people sitting next to me in class as well as a teammate in the other section. I also discussed my homework with tutor Sofia. It was nice to talk to other people and see where thet were having trouble. These conversations helped me gain more insight into what i should do next.
+
 - Which session(s) of TA / office hours did you attend?
+I went to Monday's TA hours and got help from Sofia. Ths was very helpful as it made sure I was on the right track and has an idea on how to get the rest of the assignment done. It was helpful to have some validation in the steps I was taking.
+
 - What are your initial impressions of Java? 
+I think Java was really difficult at first because I has never used it before. But between using the book as a resource, the online Java files and just googling what methods existed and how to use them, I was able to feel much stronger in my Java skills and believe I have really improved since the beginning of the assignment. 
+
 - Can you draw any conclusion about programming in general from the similarities or the differences between the two languages? 
+I see after doing this assignment that all coding is just one big puzzle that requires lots of trial and error, patience, and problem solving. Just like with python, I had to work out the kinks and start small. I had to follow the same kind of process that I always have with coding: making baby steps and backtracking and learning a lot before I end up with a final product. Something that was different was the way in which I had to think about how different methods related to each other. It was also frustrating because I had to make sure everything worked before I could really test my code. Unlike python where I could just run what I had until I found the issue. The fact that I had to have some minimal viable product just in order to run my code made the starting process much trickier than in phython. 
+
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+Something that worked was really utalizing my resources. Instead of guessing and making a mess of my code, it was helpful to use my resources to figure out what I could actually do with the different classes and types I was using. Still, getting used to Java, something that went wrong would be that I would open up my file after not looking at it for a while and forget exactly how my code worked and why I had included certain things. In the future, I would recommend students take detailed comments of their code ass they're working because even though it is tempting to rush forward when you've had a eureka moment, it will be harder to understand what you did later without comments. Also, you should take note of all the new things you learn through the book or online. I found myself looking up the same methods and at the same examples or how tos multiple times because I had forgotten the information I'd learned before. If I'd kept a log of all the things I needed to search, I wouldn't have wasted so much time finding the information I needed. 
